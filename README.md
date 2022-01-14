@@ -75,7 +75,7 @@
         - 二番
             -「財布を無くした」アドリアンは嘆「なげ」いた。
                 - ‘’I lost my wallet‘’、Lamented Adrian.
-        - 二番
+        - 三番
             - ウワーン。財布を無くした。
                 - Waaah、I lost my wallet。
         - 四番
