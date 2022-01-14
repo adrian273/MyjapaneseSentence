@@ -3,36 +3,23 @@
 <p style="text-align: right">
 <strong>文書のリンク「Link Document for comments or share」｜<a href="https://docs.google.com/document/d/1DNJ3rq0q8-WFg3ZfAA9lsKQjnd5m6812j3Q9hRGxQGI/edit?usp=sharing">Documento Google </a></strong></p>
 
-
 <p style="text-align: right">
 <strong>Glossary For anonymous users</strong></p>
-
-
 
 <p style="text-align: right">
 意味「いみ」Meaning</p>
 
-
-
 <p style="text-align: right">
 例えば｜Example</p>
-
-
 
 <p style="text-align: right">
 英語｜English Meaning</p>
 
-
-
 <p style="text-align: right">
 ひらがな｜Reading in Hiragana</p>
 
-
-
 <p style="text-align: right">
 語彙「ごい」｜Vocabulary (Sentence ‘s Vocabulary “extra”)</p>
-
-
 
 <p style="text-align: right">
 ----------------------------------------------------------</p>
@@ -41,27 +28,40 @@
 <p style="text-align: right">
 <strong>21年1月14日（金）</strong></p>
 
-
 <span style="text-decoration:underline;">吹</span>く「<span style="text-decoration:underline;">ふ</span>く」
-
-
 
 * 意味｜「To blow（Wind、ETC...）
 * 例えば
     * 一番　
         * 寒かった、その上風が吹いていた。
-            * 英語｜It was cold、And in addition、It was windy。
-            * 語彙
+            * 英語➥It was cold、And in addition、It was windy。
+            * 語彙⤵
                 * その上　👇
                     * 意味｜In addition。
     * 二番
         * 当地では夕方によく涼しい風が吹く。
-            * 英語｜There is usually a cool breeze here in the evening。
-            * 語彙
+            * 英語➥There is usually a cool breeze here in the evening。
+            * 語彙⤵
                 * 当地「とうち」➥This place, Here
                 * 夕方「ゆうがた」➥Evening, Dusk
                 * よく➥Well, often
                 * 涼しい「すずしい」➥Cool, refreshing, clear(eg..Eyes)
+    * 三番
+        * 風は東から吹いている。
+            * 英語➥The wind is blowing from the east。
+            * 語彙⤵
+                * 東➥ひがし
+                * 風➥かぜ
+    * 四番
+        * 木は吹き倒された。
+            * 英語➥The tree was blown down。
+            * 語彙⤵
+                * 倒す「たおす」➥To throw down、To bring down
+    * 五番
+        * 穏やかな風が吹いていた。
+            * 英語➥A gentle wind was blowing。
+            * 語彙⤵
+                * 穏やか「おだやか」➥Calm, gentle, quiet, reasonable。
 
 <p style="text-align: right">
 <strong>22年1月8日（土）</strong></p>
