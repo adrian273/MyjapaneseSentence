@@ -26,7 +26,7 @@
 
 
 <p style="text-align: right">
-<strong>21年1月14日（金）</strong></p>
+<strong>22年1月14日（金）</strong></p>
 
 <span style="text-decoration:underline;">吹</span>く「<span style="text-decoration:underline;">ふ</span>く」
 
