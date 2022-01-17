@@ -1,7 +1,9 @@
-# 俺の日本語の文章　🗾
+# 俺の日本語の文章　🗾 <a href="https://adrian273.github.io/MyjapaneseSentence/"> View On WebPage </a>
 
 <p style="text-align: right">
 <strong>文書のリンク「Link Document for comments or share」｜<a href="https://docs.google.com/document/d/1DNJ3rq0q8-WFg3ZfAA9lsKQjnd5m6812j3Q9hRGxQGI/edit?usp=sharing">Documento Google </a></strong></p>
+
+<p style="text-align: right"><strong>歌詞の文書｜<a href="https://adrian273.github.io/MyjapaneseSentence/歌詞の文書">Song Lyrics Document </a></strong></p>
 
 <p style="text-align: right">
 <strong>Glossary For anonymous users</strong></p>
