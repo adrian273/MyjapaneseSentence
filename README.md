@@ -5,6 +5,8 @@
 
 <p style="text-align: right"><strong>歌詞の文書｜<a href="https://adrian273.github.io/MyjapaneseSentence/歌詞の文書">Song Lyrics Document </a></strong></p>
 
+<p style="text-align: right"><strong>漢字の文書｜<a href="https://adrian273.github.io/MyjapaneseSentence/日本語の文書">Kanji Document </a></strong></p>
+
 <p style="text-align: right">
 <strong>Glossary For anonymous users</strong></p>
 
